@@ -1,0 +1,5 @@
+matplotlib==2.0.2
+numpy==1.13.1
+packaging==16.8
+pandas==0.20.3
+
